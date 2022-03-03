@@ -1,0 +1,4 @@
+First filter low quality reads
+then trim adapters
+align reads to reference
+subsample reads for each sample to 100K 
